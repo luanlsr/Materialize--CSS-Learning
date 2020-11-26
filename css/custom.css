@@ -6,33 +6,54 @@ p{
 #b1{
     height: 150px;
     cursor: pointer;
+    padding: 5px;
     
 }
 #b2{
     height: 150px;
     cursor: pointer;
+    padding: 5px;
 }
 #b3{
     height: 150px;
     cursor: pointer;
+    padding: 5px;
 }
 #b4{
     height: 150px;
     cursor: pointer;
+    padding: 5px;
 }
 #b5{
     height: 150px;
     cursor: pointer;
+    padding: 5px;
 }
 #b6{
     height: 150px;
     cursor: pointer;
+    padding: 5px;
 }
 #b7{
     height: 150px;
     cursor: pointer;
+    padding: 5px;
 }
 #b8{
     
     cursor: pointer;
+  
+}
+
+#titulo{
+    text-align: center;
+}
+
+#imgS{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 5px;
+
 }
