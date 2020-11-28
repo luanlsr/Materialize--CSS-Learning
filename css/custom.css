@@ -55,5 +55,13 @@ p{
     justify-content: center;
     align-items: center;
     padding: 5px 5px;
+}
 
+#imgR{
+    height: 150px;
+    cursor: pointer;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 5px;
 }
