@@ -47,6 +47,18 @@ p{
 
 #titulo{
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.material-icons{
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+}
+.material-icons:hover{
+    color: #db1515;
 }
 
 #imgS{
