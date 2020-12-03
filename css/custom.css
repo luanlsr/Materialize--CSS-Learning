@@ -34,11 +34,7 @@ p{
     cursor: pointer;
     padding: 5px;
 }
-#b7{
-    height: 150px;
-    cursor: pointer;
-    padding: 5px;
-}
+
 #b8{
     
     cursor: pointer;
@@ -63,7 +59,7 @@ p{
 
 #imgS{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 5px 5px;
